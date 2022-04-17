@@ -3,7 +3,7 @@
     "username": "root",
     "password": "root",
     "database": "housy",
-    "host": "10.224.143.15",
+    "host": "10.224.143.55",
     "dialect": "postgres"
   },
   "test": {

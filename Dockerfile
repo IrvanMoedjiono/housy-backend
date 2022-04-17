@@ -1,7 +1,7 @@
 FROM node:dubnium-alpine3.11
 WORKDIR /usr/src/app
 COPY . .
-ENV DATABASE_URL postgres://root:root@10.224.143.15/housy
+ENV DATABASE_URL postgres://root:root@10.224.143.55/housy
 ENV NODE_ENV production
 
 RUN npm install
